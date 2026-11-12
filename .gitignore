@@ -1,0 +1,22 @@
+# Maxfiy kalitlar (Hech qachon GitHubga chiqmasligi shart!)
+.env
+
+# Ma'lumotlar bazasi va xotira
+bot_memory.db
+bot_memory.db-journal
+
+# Vaqtinchalik fayllar
+temp/
+*.tmp
+*.mp3
+*.wav
+*.oga
+*.ogg
+*.jpg
+*.png
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
